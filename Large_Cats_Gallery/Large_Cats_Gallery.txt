@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Large Cats Gallery</title>
+</head>
+<body>
+<h1>Large Cats</h1>
+
+<img src="https://commons.wikimedia.org/wiki/File:Secret_Garden_Bengal_Tiger_3.jpg"/>
+</body>
+</html>
