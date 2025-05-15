@@ -29,7 +29,7 @@
 </ul>
 </div>
 
-<div style="width:400px; height:550px; color:white; background-image:url('');">
+<div style="width:400px; height:550px; color:white; background-image:url('file:///C:/Users/intel/Desktop/School/Basic%20Web%20Design/Restaurant_Menu/IMG_5890.jpg');">
    <p>Listed Lunch Goods…</p>
 <ul>
 <li>Cheesy garlic Chicken Wrap…… 5$</li>
@@ -56,3 +56,5 @@
 <div style="width:400px; height:550px; color:white; background-image:url('file:///C:/Users/intel/Desktop/School/Basic%20Web%20Design/Restaurant_Menu/IMG_5893.jpg');">
    <p>Diner
 </p></div>
+</body>
+</html>
