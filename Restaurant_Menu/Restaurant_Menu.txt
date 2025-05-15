@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Restaurant Menu</title>
+</head>
+<body>
+
+<div style="width:400px; height:550px; color:white; background-image:url('file:///C:/Users/intel/Desktop/School/Basic%20Web%20Design/Restaurant_Menu/IMG_5888.jpg');">
+   <p>Listed Breakfast Goods…</p>
+<ul>
+<li>Banana Pancakes………. 5$</li>
+<li>French Toast……………….. 5$</li>
+<li>Sausage French Toast Roll-Up’s…….. 7$</li>
+<li>Breakfast cookie……. 2$</li>
+<li>Biscuits and Gravy……….. 5$</li>
+<li>Loaded Hash browns……… 7$</li>
+<li>Breakfast Club Sandwich………….7$</li>
+</ul>
+
+<p>Listed Breakfast Beverages…</p>
+<ul>
+<li>Hot chocolate………. 3$</li>
+<li>Water……… 3$</li>
+<li>Iced English Latte……… 5$</li>
+<li>Classic Orange Juice…….. 3$</li>
+<li>Cinnamon Roll Smoothie…….. 5$</li>
+<li>Hot Oatmeal & Milk Drink……. 5$</li>
+<li>Coffee……. 3$
+</ul>
+</div>
+
+<div style="width:400px; height:550px; color:white; background-image:url('file:///C:/Users/intel/Desktop/School/Basic%20Web%20Design/Restaurant_Menu/IMG_5890.jpg');">
+   <p>Listed Lunch Goods…</p>
+<ul>
+<li>Cheesy garlic Chicken Wrap…… 5$</li>
+<li>Southwest Chicken Salad……. 6&</li>
+<li>Cheesy Potato Burritos….. 5$</li>
+<li>Baked Ham and Cheese Croissant…… 7$</li>
+<li>Taco Stuffed Sweet Potatoes……. 7$</li>
+<li>Bang Bang Chicken Bowl…….. 10$</li>
+<li>Bacon Grilled Chicken Avocado Sandwich…..10$</li>
+</ul>
+
+<p>Listed Lunch Beverages</p>
+<ul>
+<li>Mocha Frappe…… 5$</li>
+<li>Hot Tea…….. 3$</li>
+<li>Coffee……… 3$</li>
+<li>Water…….. 3$</li>
+<li>Brown Sugar shaken Espresso……. 5$</li>
+<li>Peach Iced Coffee…….. 3$</li>
+<li>Vanilla Iced Coffee…….. 5$</li>
+</ul>
+</div>
+
+<div style="width:400px; height:550px; color:white; background-image:url('file:///C:/Users/intel/Desktop/School/Basic%20Web%20Design/Restaurant_Menu/IMG_5893.jpg');">
+   <p>Diner
+</p></div>
