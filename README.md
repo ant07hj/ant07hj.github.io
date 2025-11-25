@@ -7,3 +7,5 @@
 <p><a href="https://ant07hj.github.io/Math_Test/Math_Test.html" target="_blank">Math Test</a></p>
 
 <p><a href="https://ant07hj.github.io/Restaurant_Menu/Restaurant_Menu" target="_blank">Restaurant Menu</a></p>
+
+<p><a href="https://ant07hj.github.io/Stylish_Schedule/table" target="_blank">Stylish Schedule</a></p>
