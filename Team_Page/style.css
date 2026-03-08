@@ -1,0 +1,81 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    background-color: #f4f6fb;
+}
+
+header {
+    background: linear-gradient(to right, #0d175a, #0e1c6e);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    letter-spacing: 1px;
+}
+
+nav {
+    background-color: #132380;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 15px 25px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #0d1b5f;
+}
+
+.team {
+    padding: 30px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.member {
+    background-color: white;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+    transition: 0.3s ease;
+}
+
+.member:hover {
+    transform: translateY(-5px);
+}
+
+.member img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 25px;
+    border-radius: 10%;
+    object-fit: cover;
+}
+
+.bio h2 {
+    margin-top: 0;
+    color: #1e1854;
+}
+
+.bio p {
+    color: #555;
+    line-height: 1.6;
+}
